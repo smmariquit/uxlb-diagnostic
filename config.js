@@ -10,8 +10,8 @@ window.TEST_CONFIG = {
 
   // Supabase project settings (Project settings > API)
   supabase: {
-    url: "https://kgdcwlvyuvyshmtuthyx.supabase.co",
-    anonKey: "sb_publishable_EDST_X3muhwlV8ka1aphDQ_6VvJAspy",
+    url: "https://sybehsqvttjtvnatokln.supabase.co",
+    anonKey: "sb_publishable_cuRCgzWeTa_9l2HWaZNRGg_efURjBmR",
   },
 
   // Who may take it. Set to null to allow any email.
